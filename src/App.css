@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+/* #root {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+ */
+
+@theme {
+  --color-blue-951: hsl(240, 38%, 20%);
+  --color-gray-402: hsl(240, 18%, 77%);
+
+  --font-custom: "MiFuente", sans-serif;
+}
+
+
